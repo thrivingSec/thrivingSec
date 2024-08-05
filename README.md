@@ -14,7 +14,7 @@ Have gained good exposure to understand various aspects of Cybersecurity through
 | Active Directory Hacking                             | <a href="https://github.com/thrivingSec/Active-Directory-Hacking-Project-">Project Link</a>|
 | Network Traffic Monitoring and Attack Detection      | Working On It|
 | Vulnerability Assesment-Inident Response-Email Forensics                         | <a href="https://github.com/thrivingSec/University-Cyber-Attack-Project">Project Link</a>        |
-| Python Scripting and OSINT                                                       | Working On It|
+| Python Scripting and OSINT                                                       | <a href="https://github.com/thrivingSec/python"> Project Link</a>|
 
 ## Tools
 
