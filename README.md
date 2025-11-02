@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Srijan</h1>
 <h2 align="center">MERN Stack Developer | Full-Stack Engineer | Web Security Enthusiast</h2>
-<h3 align="center">Based in Chandigarh, India</h3>
+<h3 align="center">Based in Bihar, India</h3>
 
 ---
 
