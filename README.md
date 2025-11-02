@@ -1,44 +1,88 @@
-# Hello, I'm Srijan
-<a href="www.linkedin.com/in/srijan-karn-81507b27a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">👋 Hi, I'm Srijan</h1>
+<h2 align="center">MERN Stack Developer | Full-Stack Engineer | Web Security Enthusiast</h2>
+<h3 align="center">Based in Chandigarh, India</h3>
 
-I'm a Graduate and Cybersecurity junior with a passion for Penetration Testing, OSINT and Risk Assessment.
+---
 
-## Objective
+### 👨‍💻 About Me
 
-Have gained good exposure to understand various aspects of Cybersecurity through the Masters Program which has developed a great sense of confidence at a very personal level. Hence, I seek a challenging position in the area of Ethical Hacking & related fields.
+- 💡 I’m a **Full-Stack Developer** focused on building modern, real-time web applications with clean and scalable architectures.  
+- 🔭 Currently working on **Textin**, a real-time chat application built with the **MERN Stack** and **Socket.IO**.  
+- 🌱 Continuously learning about **system design**, **API security**, and **performance optimization**.  
+- 🚀 I love transforming ideas into fully functional products using efficient, maintainable codebases.  
+- ⚡ Fun fact: I enjoy debugging and optimizing code just as much as writing new features!
 
-## Skills
+---
 
-| Skill                                                                   | Associated Project         |
-|-------------------------------------------------------------------------|----------------------------|
-| Active Directory Hacking                             | <a href="https://github.com/thrivingSec/Active-Directory-Hacking-Project-">Project Link</a>|
-| Network Traffic Monitoring and Attack Detection      | Working On It|
-| Vulnerability Assesment-Inident Response-Email Forensics                         | <a href="https://github.com/thrivingSec/University-Cyber-Attack-Project">Project Link</a>        |
-| Python Scripting and OSINT                                                       | <a href="https://github.com/thrivingSec/python"> Project Link</a>|
+### 🛠️ Tech Stack
 
-## Tools
+#### 🧩 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-### Analysis And Enumeration
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/nmap-blue?logo=zeek&logoSize=amd"/>
-    <img src="https://img.shields.io/badge/nessus-blue?logo=zeek&logoSize=amd" />
-    <img src="https://img.shields.io/badge/tcpdump-black?logo=zeek&logoSize=amd" />
-    <img src="https://img.shields.io/badge/hping3-red?logo=zeek&logoSize=amd" />
-    <img src="https://img.shields.io/badge/burpsuite-orange?logo=zeek&logoSize=amd" />
-</div>
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
 
-### Exploitation
-<div>
-    <img src="https://img.shields.io/badge/metasploit-red?logo=zeek&logoSize=amd" />
-    <img src="https://img.shields.io/badge/mimkatz-red?logo=zeek&logoSize=amd" />
-    <img src="https://img.shields.io/badge/bloodhound-red?logo=zeek&logoSize=amd" />
-</div>
+#### 🗃️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
+
+---
+
+### 🚀 Featured Project — Textin 💬
+
+**Textin** is a **full-stack real-time chat application** built with **MERN** and **Socket.IO**, designed with secure authentication, user management, and smooth real-time communication.
+
+📂 **Repository:** [Textin](https://github.com/thrivingSec/Textin)
+
+**🔑 Key Features:**
+- 🔒 JWT-based Authentication  
+- 💬 Real-Time Chat with Socket.IO  
+- 🧍‍♂️ Online User Tracking  
+- ✍️ Typing Indicators  
+- 🖥️ Responsive, Modern UI built with **React + TailwindCSS**  
+- 🧱 Scalable REST API with **Express & MongoDB**
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced **React** patterns and component architecture  
+- **State management** and application performance optimization  
+- **API design**, **authentication**, and **secure session handling**  
+- Fundamentals of **web security** and **deployment workflows**
+- Fundamentals of **GenAI**
+- **Data Structures and Algorithms** using JavaScript
+---
 
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/CEH%20v12-red?logoSize=amd" />
-<img src="https://img.shields.io/badge/Cyber%20Security%20Expert-blue?logoSize=amd&link=https%3A%2F%2Fsuccess.simplilearn.com%2Ff5d1c9bb-fb69-46ba-9de4-f9666a1bd779" />
-</div>
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/srijan-karn-81507b27a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:srijanspl2017@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/_remotehost_" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+If you like my work, feel free to ⭐ my repositories or connect with me on LinkedIn!
 
