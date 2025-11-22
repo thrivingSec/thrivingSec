@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 💡 I’m a **Full-Stack Developer** focused on building modern, real-time web applications with clean and scalable architectures.  
-- 🔭 Currently working on **Textin**, a real-time chat application built with the **MERN Stack** and **Socket.IO**.  
+- 🔭 Currently working on **AI Virtual Assistant**, A smart, general-purpose AI assistant built with the **MERN stack**, powered by the **Gemini LLM**.  
 - 🌱 Continuously learning about **system design**, **API security**, and **performance optimization**.  
 - 🚀 I love transforming ideas into fully functional products using efficient, maintainable codebases.  
 - ⚡ Fun fact: I enjoy debugging and optimizing code just as much as writing new features!
