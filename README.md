@@ -40,7 +40,9 @@
 
 ---
 
-### 🚀 Featured Project — Textin 💬
+### 🚀 Featured Project: 
+
+### — Textin 💬
 
 **Textin** is a **full-stack real-time chat application** built with **MERN** and **Socket.IO**, designed with secure authentication, user management, and smooth real-time communication.
 
@@ -54,7 +56,20 @@
 - 🖥️ Responsive, Modern UI built with **React + TailwindCSS**  
 - 🧱 Scalable REST API with **Express & MongoDB**
 
----
+### — AI_Virtual_Assistant 💬
+
+📂 **Repository:** [AI_Virtual_Assistant](https://github.com/thrivingSec/AI_Virtual_Assistant)
+
+**🔑 Key Features:**
+
+- 🧠 Custom AI Agents with memory, and response behavior
+- ⚡ Interface built with **React + TailwindCSS**
+- 📡 Fast & Scalable Backend using **Express & MongoDB**
+- 🔐 Secure User Authentication with JWT
+- 📁 Memory System that stores user preferences & long-term data
+- 🔄 State Management with **Redux Toolkit**
+- 🧵 Efficient Context Handling for AI using context builder
+- 🧱 Modular, Scalable Architecture designed for easy future integrations (payments, more AI features)
 
 ### 🌱 Currently Learning
 
